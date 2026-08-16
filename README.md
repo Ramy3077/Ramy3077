@@ -34,4 +34,4 @@ Looking for a **Summer 2027 software engineering internship**.
 
 ### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/ramy-mekhzer) · mekhzerramy@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ramymekhzer) · mekhzerramy@gmail.com
