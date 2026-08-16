@@ -27,7 +27,7 @@ Looking for a **Summer 2027 software engineering internship**.
 
 **Frontend** React · Angular · Next.js
 
-**Infra** Docker · Docker Compose · CI/CD · AWS · Azure · Linux
+**Infra** Docker · Docker · CI/CD · AWS · Azure · Linux
 
 **Interests** distributed systems, applied machine learning, application security
 
