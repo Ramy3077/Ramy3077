@@ -1,7 +1,9 @@
 ## Ramy Mekhzer
 
 MEng Computer Science & Software Engineering at the University of Birmingham, graduating 2028.
-Currently on a 12-month industrial placement at Amazon in London.
+Currently a Financial Analyst on a 12-month industrial placement at Amazon Leo in London, where I
+took ownership of an AWS-hosted deal approval platform used by 100+ employees, introduced source
+control and a production baseline, and rebuilt its intake and approval flow.
 
 Looking for a **Summer 2027 software engineering internship**.
 [ramymekhzer.dev](https://ramymekhzer.dev) · [LinkedIn](https://www.linkedin.com/in/ramymekhzer) · mekhzerramy@gmail.com
