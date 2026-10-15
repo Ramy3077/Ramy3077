@@ -11,10 +11,10 @@ Looking for a **Summer 2027 software engineering internship**.
 ### Things you can open right now
 
 <p>
-  <a href="https://fastslam-demo-production.up.railway.app"><img src="https://raw.githubusercontent.com/Ramy3077/Probabilistic-SLAM-with-Autonomous-Exploration-in-Simulation-Uob/main/docs/demo.png" alt="FastSLAM demo" height="170"></a>
-  <a href="https://studybuddy-production-1808.up.railway.app"><img src="https://raw.githubusercontent.com/Ramy3077/studybuddy/main/docs/screenshot.png" alt="StudyBuddy" height="170"></a>
-  <a href="https://web-production-a9b34.up.railway.app"><img src="https://raw.githubusercontent.com/Ramy3077/TravelProject/main/docs/screenshot.png" alt="Can I Afford This Trip?" height="170"></a>
-  <a href="https://web-production-62771.up.railway.app"><img src="https://raw.githubusercontent.com/Ramy3077/london-commute-map/main/docs/screenshot.png" alt="London Commute Map" height="170"></a>
+  <a href="https://fastslam-demo-production.up.railway.app"><img src="https://raw.githubusercontent.com/Ramy3077/Probabilistic-SLAM-with-Autonomous-Exploration-in-Simulation-Uob/main/docs/demo.png" alt="FastSLAM demo" height="140"></a>
+  <a href="https://studybuddy-production-1808.up.railway.app"><img src="https://raw.githubusercontent.com/Ramy3077/studybuddy/main/docs/screenshot.png" alt="StudyBuddy" height="140"></a>
+  <a href="https://web-production-a9b34.up.railway.app"><img src="https://raw.githubusercontent.com/Ramy3077/TravelProject/main/docs/screenshot.png" alt="Can I Afford This Trip?" height="140"></a>
+  <a href="https://web-production-62771.up.railway.app"><img src="https://raw.githubusercontent.com/Ramy3077/london-commute-map/main/docs/screenshot.png" alt="London Commute Map" height="140"></a>
 </p>
 
 | Project | What it does | Stack | |
