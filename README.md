@@ -25,7 +25,7 @@ Looking for a **Summer 2027 software engineering internship**.
 | **[Job Scout](https://github.com/Ramy3077/job-scout)** | Job tracker that tailors a CV to a pasted job description using only facts from your profile. | Python stdlib, SQLite, LaTeX | [Demo](https://job-scout-production-9842.up.railway.app) |
 | **[London Commute Map](https://github.com/Ramy3077/london-commute-map)** | Door-to-desk TfL journey times across London on an H3 hex grid. | Python, TfL API, H3, Leaflet | [Live](https://web-production-62771.up.railway.app) |
 | **[LocalFlow](https://github.com/Ramy3077/localflow)** | Hold a key, speak, and cleaned-up text is typed for you. All on-device. | Python, MLX (Parakeet), Ollama, PyObjC | |
-| **[Banking Multi-Agent](https://github.com/Ramy3077/banking-multi-agent-adk)** | Root agent hands off to specialist agents that read customer data through a read-only BigQuery agent. | Google ADK, Gemini 2.5 Flash, BigQuery | |
+| **[Banking Multi-Agent](https://github.com/Ramy3077/banking-multi-agent-adk)** | Root agent hands off to specialist agents that read customer data through a read-only BigQuery agent. | Google ADK, Gemini, BigQuery | [Replay](https://replay-production-b3d5.up.railway.app) |
 
 ### Working with
 
