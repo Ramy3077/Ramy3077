@@ -10,6 +10,13 @@ Looking for a **Summer 2027 software engineering internship**.
 
 ### Things you can open right now
 
+<p>
+  <a href="https://fastslam-demo-production.up.railway.app"><img src="https://raw.githubusercontent.com/Ramy3077/Probabilistic-SLAM-with-Autonomous-Exploration-in-Simulation-Uob/main/docs/demo.png" alt="FastSLAM demo" width="24%"></a>
+  <a href="https://studybuddy-production-1808.up.railway.app"><img src="https://raw.githubusercontent.com/Ramy3077/studybuddy/main/docs/screenshot.png" alt="StudyBuddy" width="24%"></a>
+  <a href="https://web-production-a9b34.up.railway.app"><img src="https://raw.githubusercontent.com/Ramy3077/TravelProject/main/docs/screenshot.png" alt="Can I Afford This Trip?" width="24%"></a>
+  <a href="https://web-production-62771.up.railway.app"><img src="https://raw.githubusercontent.com/Ramy3077/london-commute-map/main/docs/screenshot.png" alt="London Commute Map" width="24%"></a>
+</p>
+
 | Project | What it does | Stack | |
 | :-- | :-- | :-- | :-- |
 | **[FastSLAM in the browser](https://github.com/Ramy3077/Probabilistic-SLAM-with-Autonomous-Exploration-in-Simulation-Uob)** | Particle-filter SLAM with frontier exploration. My SLAM core runs live in your browser via Pyodide. | Python, NumPy, Pyodide, Webots | [Live](https://fastslam-demo-production.up.railway.app) |
