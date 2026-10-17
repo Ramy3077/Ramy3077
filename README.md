@@ -5,7 +5,6 @@ Currently a Financial Analyst on a 12-month industrial placement at Amazon Leo i
 took ownership of an AWS-hosted deal approval platform used by 100+ employees, introduced source
 control and a production baseline, and rebuilt its intake and approval flow.
 
-Looking for a **Summer 2027 software engineering internship**.
 [ramymekhzer.dev](https://ramymekhzer.dev) · [LinkedIn](https://www.linkedin.com/in/ramymekhzer) · mekhzerramy@gmail.com
 
 ### Things you can open right now
